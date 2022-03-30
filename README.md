@@ -1,2 +1,3 @@
-# mlprojects
-Repository containing several machine learning projects 
+# python practices 
+Repository containing different jupyter files with python practices 
+
